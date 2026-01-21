@@ -1,2 +1,3 @@
-# Van-Vu-Quynh-Nhu-
-Business Administration students majoring in Business Analytics at Eastern International University 
+# Van Vu Quynh Nhu 
+Majoring in Business Analytics at EIU | 
+Interested in data-driven decision-making and business insights.
